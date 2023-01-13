@@ -31,5 +31,15 @@
 }
 .about_details{
     display: flex;
-    text-align: center;
+    
 }
+.about_total h1{
+    font-size: 50px;
+}
+.about_total{
+   margin-top: 200px;
+   padding-left: 40px;
+   padding-right: 100px;
+   
+}
+
