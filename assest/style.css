@@ -1,6 +1,6 @@
 *{
     font-family: sans-serif;
-}
+}*
 .hero_part{
     background: url(../assest/images/banner3.png);
     background-size: cover;
@@ -41,5 +41,55 @@
    padding-left: 40px;
    padding-right: 100px;
    
+}
+.skill_head{
+    font-size: 30px;
+    text-align: center;
+}
+.skill_plan{
+    display: flex;
+    padding-left: 50px;
+}
+.skill_main{
+    padding: 50px;
+}
+.skill_detail{
+    color: rgb(100, 98, 98);
+    font-size: 20px;
+}
+.maindset{
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 40px;
+}
+.footer{
+    margin-top: 140px;
+}
+.footer_main{
+    display: flex;
+    color: aliceblue;
+    background-color: black;
+}
+.footer_future{
+    padding-right: 400px;
+    padding-left: 39px;
+}
+.footer_subscribe{
+    padding: 100px;
+   
+}
+.footer_btn{
+    margin-top: 10px;
+}
+.footer_btn a{
+   
+    font-size: 28px;
+    color: rgb(12, 11, 11);
+    background-color: rgb(27, 110, 244);
+    border-radius: 5%;
+    border: 1px solid;
+    text-decoration: none;
+    padding: 6px;
+    
 }
 
