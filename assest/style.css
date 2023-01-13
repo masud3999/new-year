@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+.hero_part{
+    background: url(../assest/images/banner3.png);
+    background-size: cover;
+    padding: 140px 0;
+}
+.hero_details{
+    color: white;
+    text-align: end;
+    margin-left: 530px;
+    margin-right: 100px;
+}
+.hero_details h1{
+    font-size: 50px;
+}
+.hero_btn a{
+    font-size: 28px;
+    color: rgb(12, 11, 11);
+    background-color: white;
+    border-radius: 5%;
+    border: 1px solid;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.hero_btn a:hover {
+    background-color: red;
+    
+}
+.about_details{
+    display: flex;
+    text-align: center;
+}
